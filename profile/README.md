@@ -10,8 +10,8 @@ Koyomi (暦) is the Japanese word for calendar: a record of your days. Each app 
 
 Plan your training days, log your sets and watch your lifts progress. Kitae works fully offline and has no tracking. The name is Japanese for training, in the sense of tempering something until it is strong.
 
-- **Android:** [source on Codeberg](https://codeberg.org/koyomi-apps/kitae) · F-Droid Coming Soon
-- **iPhone:** [source on Codeberg](https://codeberg.org/koyomi-apps/kitae-ios) · Testflight Coming Soon
+- **Android:** [source on Codeberg](https://github.com/gureetk/kitae) · F-Droid Coming Soon
+- **iPhone:** [source on Codeberg](https://github.com/gureetk/kitae-ios) · Testflight Coming Soon
 
 Backups are plain zip files, and a backup made on one platform restores on the other.
 
